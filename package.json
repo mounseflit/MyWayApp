@@ -1,0 +1,29 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "node js App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mounseflit/MyWay.git"
+  },
+  "keywords": [
+    "Orientation",
+    "roadmapping",
+    "success",
+    "steps"
+  ],
+  "author": "mounseflit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mounseflit/MyWay/issues"
+  },
+  "homepage": "https://github.com/mounseflit/MyWay/#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.1.1"
+  }
+}
